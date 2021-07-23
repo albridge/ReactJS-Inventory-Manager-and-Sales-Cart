@@ -1,0 +1,59 @@
+.header {
+  text-align: center;
+  font-size: 3em;
+  background-color: rgb(88, 98, 190);
+  color: rgb(252, 250, 250);
+}
+
+.nav {
+  display: flex;
+  text-decoration: none;
+  list-style: none;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #000;
+}
+
+.body {
+  margin: auto;
+  height: auto;
+}
+
+.form1 {
+  margin: auto;
+  border: 1px solid rgb(134, 128, 128);
+  padding: 20px;
+  width: 60%;
+  height: auto;
+  border-radius: 5px;
+  box-shadow: 10px;
+  display: block;
+}
+
+.field {
+  width: auto;
+  margin: auto;
+  padding: 10px;
+  height: auto;
+}
+
+.button {
+  padding: 10px;
+}
+
+.suggestion {
+  border: 0.2px solid rgb(68, 68, 62);
+  padding: 5px;
+  color: rgb(10, 10, 10);
+  cursor: pointer;
+}
+
+.suggestion:hover {
+  background-color: rgb(229, 210, 247);
+  /* color: white; */
+}
+
+.search {
+}
