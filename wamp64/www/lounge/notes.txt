@@ -1,0 +1,4 @@
+this version has enter to update cart quantity and total functionality without auto update and also have item by item discount although it has the generally applied discount that can be set in the config options
+
+main update
+item by item discount functionality

@@ -1,0 +1,68 @@
+[
+    {
+        "name": "mike42/escpos-php",
+        "version": "v1.3",
+        "version_normalized": "1.3.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/mike42/escpos-php.git",
+            "reference": "f6bb510e6f3668ae278d7aec3afb029104e1459f"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/mike42/escpos-php/zipball/f6bb510e6f3668ae278d7aec3afb029104e1459f",
+            "reference": "f6bb510e6f3668ae278d7aec3afb029104e1459f",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "4.5.*",
+            "squizlabs/php_codesniffer": "2.*"
+        },
+        "time": "2016-07-19 12:23:05",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Mike42\\": "src/Mike42"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Roni Saha",
+                "email": "roni.cse@gmail.com"
+            },
+            {
+                "name": "Michael Billington",
+                "email": "michael.billington@gmail.com"
+            },
+            {
+                "name": "Gergely Radics",
+                "email": "gerifield@ustream.tv"
+            },
+            {
+                "name": "Warren Doyle",
+                "email": "w.doyle@fuelled.co"
+            },
+            {
+                "name": "vharo",
+                "email": "vharo@geepok.com"
+            }
+        ],
+        "description": "Thermal receipt printer library, for use with ESC/POS compatible printers",
+        "homepage": "https://github.com/mike42/escpos-php",
+        "keywords": [
+            "ESC-POS",
+            "driver",
+            "escpos",
+            "print",
+            "receipt"
+        ]
+    }
+]

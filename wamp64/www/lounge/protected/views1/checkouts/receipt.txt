@@ -1,0 +1,10 @@
+SALES RECEIPT
+Transaction ID	14771286141
+------------------
+Item Name		 Qty
+------------------
+understanding men	1
+understanding women	9
+understanding sex	1
+Total items	3
+Total	4,600.00
